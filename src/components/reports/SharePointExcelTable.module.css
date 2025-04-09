@@ -1,0 +1,119 @@
+.container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .title {
+    text-align: center;
+    color: #333;
+  }
+  
+  .tabContainer {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .tabButton {
+    background-color: #eaeaea;
+    color: #333;
+    border: 1px solid #ccc;
+    padding: 8px 16px;
+    border-radius: 6px;
+    font-size: 15px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    font-weight: bold;
+  }
+  
+  .tabButton:hover {
+    background-color: #d6f5e9;
+  }
+  
+  .activeTab {
+    background-color: #00d483;
+    color: white;
+    border-color: #00b472;
+  }
+  
+  .searchBox {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .searchBox:focus {
+    border-color: #00d483;
+    outline: none;
+  }
+  
+  .table {
+    width: 1000px; /* fixed width across all tabs */
+    border-collapse: collapse;
+    margin-bottom: 15px;
+    table-layout: fixed; /* makes column widths consistent */
+    word-wrap: break-word;
+    overflow-x: auto;
+    display: block; /* allows horizontal scroll if needed */
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .table th, .table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .sortableHeader {
+    cursor: pointer;
+    background-color: #f4f4f4;
+  }
+  
+  .sortableHeader:hover {
+    background-color: #ddd;
+  }
+  
+  .alternateRow {
+    background-color: #f9f9f9;
+  }
+  
+  .pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .pageButton {
+    background-color: #0078d4;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 14px;
+    transition: background-color 0.3s;
+  }
+  
+  .pageButton:hover {
+    background-color: #005a9e;
+  }
+  
+  .pageButton:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }
+  
+  .pageInfo {
+    font-size: 16px;
+    font-weight: bold;
+    color: #08a01a;
+  }
+   

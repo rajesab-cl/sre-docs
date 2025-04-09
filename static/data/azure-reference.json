@@ -1,0 +1,426 @@
+[
+    {
+        "Resource Type": "App Service ( Windows Docker Dotnet)",
+        "Full Stack": "SUPPORTED",
+        "Cloud Apps": "SUPPORTED",
+        "App Security": "SUPPORTED",
+        "Open Telementry": "SKIPPED",
+        "Log": "SUPPORTED"
+    },
+    {
+        "Resource Type": "App Service ( Windows Code Dotnet)",
+        "Full Stack": "SUPPORTED",
+        "Cloud Apps": "SUPPORTED",
+        "App Security": "SUPPORTED",
+        "Open Telementry": "SKIPPED",
+        "Log": "SUPPORTED"
+    },
+    {
+        "Resource Type": "App Service ( Linux Docker Python)",
+        "Full Stack": "SUPPORTED",
+        "Cloud Apps": "SUPPORTED",
+        "App Security": "UNSUPPORTED",
+        "Open Telementry": "SUPPORTED",
+        "Log": "SUPPORTED"
+    },
+    {
+        "Resource Type": "App Service ( Windows Docker) Python",
+        "Full Stack": "SUPPORTED",
+        "Cloud Apps": "SUPPORTED",
+        "App Security": "UNSUPPORTED",
+        "Open Telementry": "SUPPORTED",
+        "Log": "SUPPORTED"
+    },
+    {
+        "Resource Type": "App Service (Linux, Docker, Nginx(Angular))",
+        "Full Stack": "SUPPORTED",
+        "Cloud Apps": "SUPPORTED",
+        "App Security": "UNSUPPORTED",
+        "Open Telementry": "SKIPPED",
+        "Log": "SUPPORTED"
+    },
+    {
+        "Resource Type": "Function App (Linux, Python, Code)",
+        "Full Stack": "SUPPORTED",
+        "Cloud Apps": "SUPPORTED",
+        "App Security": "UNSUPPORTED",
+        "Open Telementry": "SKIPPED",
+        "Log": "SUPPORTED"
+    },
+    {
+        "Resource Type": "Function App (Dotnet, windows, Code)",
+        "Full Stack": "SUPPORTED",
+        "Cloud Apps": "SUPPORTED",
+        "App Security": "SUPPORTED",
+        "Open Telementry": "SKIPPED",
+        "Log": "SUPPORTED"
+    },
+    {
+        "Resource Type": "Function App (Container, Python)",
+        "Full Stack": "SUPPORTED",
+        "Cloud Apps": "SUPPORTED",
+        "App Security": "UNSUPPORTED",
+        "Open Telementry": "SUPPORTED",
+        "Log": "SUPPORTED"
+    },
+    {
+        "Resource Type": "API Management service",
+        "Full Stack": "UNSUPPORTED",
+        "Cloud Apps": "SUPPORTED",
+        "App Security": "UNSUPPORTED",
+        "Open Telementry": "UNSUPPORTED",
+        "Log": "UNSUPPORTED"
+    },
+    {
+        "Resource Type": "App Configuration",
+        "Full Stack": "UNSUPPORTED",
+        "Cloud Apps": "SUPPORTED",
+        "App Security": "UNSUPPORTED",
+        "Open Telementry": "UNSUPPORTED",
+        "Log": "UNSUPPORTED"
+    },
+    {
+        "Resource Type": "App Service plan",
+        "Full Stack": "UNSUPPORTED",
+        "Cloud Apps": "SUPPORTED",
+        "App Security": "UNSUPPORTED",
+        "Open Telementry": "UNSUPPORTED",
+        "Log": "UNSUPPORTED"
+    },
+    {
+        "Resource Type": "Application Insights",
+        "Full Stack": "UNSUPPORTED",
+        "Cloud Apps": "SUPPORTED",
+        "App Security": "UNSUPPORTED",
+        "Open Telementry": "UNSUPPORTED",
+        "Log": "UNSUPPORTED"
+    },
+    {
+        "Resource Type": "Automation Account",
+        "Full Stack": "UNSUPPORTED",
+        "Cloud Apps": "SUPPORTED",
+        "App Security": "UNSUPPORTED",
+        "Open Telementry": "UNSUPPORTED",
+        "Log": "UNSUPPORTED"
+    },
+    {
+        "Resource Type": "Azure Cache for Redis",
+        "Full Stack": "UNSUPPORTED",
+        "Cloud Apps": "SUPPORTED",
+        "App Security": "UNSUPPORTED",
+        "Open Telementry": "UNSUPPORTED",
+        "Log": "UNSUPPORTED"
+    },
+    {
+        "Resource Type": "Container App",
+        "Full Stack": "UNSUPPORTED",
+        "Cloud Apps": "SUPPORTED",
+        "App Security": "UNSUPPORTED",
+        "Open Telementry": "UNSUPPORTED",
+        "Log": "UNSUPPORTED"
+    },
+    {
+        "Resource Type": "Container Apps Environment",
+        "Full Stack": "UNSUPPORTED",
+        "Cloud Apps": "SUPPORTED",
+        "App Security": "UNSUPPORTED",
+        "Open Telementry": "UNSUPPORTED",
+        "Log": "UNSUPPORTED"
+    },
+    {
+        "Resource Type": "Container Instances",
+        "Full Stack": "UNSUPPORTED",
+        "Cloud Apps": "SUPPORTED",
+        "App Security": "UNSUPPORTED",
+        "Open Telementry": "UNSUPPORTED",
+        "Log": "UNSUPPORTED"
+    },
+    {
+        "Resource Type": "Container registry",
+        "Full Stack": "UNSUPPORTED",
+        "Cloud Apps": "SUPPORTED",
+        "App Security": "UNSUPPORTED",
+        "Open Telementry": "UNSUPPORTED",
+        "Log": "UNSUPPORTED"
+    },
+    {
+        "Resource Type": "Data factory (V2)",
+        "Full Stack": "UNSUPPORTED",
+        "Cloud Apps": "SUPPORTED",
+        "App Security": "UNSUPPORTED",
+        "Open Telementry": "UNSUPPORTED",
+        "Log": "UNSUPPORTED"
+    },
+    {
+        "Resource Type": "Event Hubs Namespace",
+        "Full Stack": "UNSUPPORTED",
+        "Cloud Apps": "SUPPORTED",
+        "App Security": "UNSUPPORTED",
+        "Open Telementry": "UNSUPPORTED",
+        "Log": "UNSUPPORTED"
+    },
+    {
+        "Resource Type": "Front Door and CDN profile",
+        "Full Stack": "UNSUPPORTED",
+        "Cloud Apps": "SUPPORTED",
+        "App Security": "UNSUPPORTED",
+        "Open Telementry": "UNSUPPORTED",
+        "Log": "UNSUPPORTED"
+    },
+    {
+        "Resource Type": "Front Door WAF policy",
+        "Full Stack": "UNSUPPORTED",
+        "Cloud Apps": "SUPPORTED",
+        "App Security": "UNSUPPORTED",
+        "Open Telementry": "UNSUPPORTED",
+        "Log": "UNSUPPORTED"
+    },
+    {
+        "Resource Type": "Key vault",
+        "Full Stack": "UNSUPPORTED",
+        "Cloud Apps": "SUPPORTED",
+        "App Security": "UNSUPPORTED",
+        "Open Telementry": "UNSUPPORTED",
+        "Log": "UNSUPPORTED"
+    },
+    {
+        "Resource Type": "Kubernetes service",
+        "Full Stack": "UNSUPPORTED",
+        "Cloud Apps": "SUPPORTED",
+        "App Security": "UNSUPPORTED",
+        "Open Telementry": "UNSUPPORTED",
+        "Log": "UNSUPPORTED"
+    },
+    {
+        "Resource Type": "Load balancer",
+        "Full Stack": "UNSUPPORTED",
+        "Cloud Apps": "SUPPORTED",
+        "App Security": "UNSUPPORTED",
+        "Open Telementry": "UNSUPPORTED",
+        "Log": "UNSUPPORTED"
+    },
+    {
+        "Resource Type": "Logic Apps",
+        "Full Stack": "UNSUPPORTED",
+        "Cloud Apps": "SUPPORTED",
+        "App Security": "UNSUPPORTED",
+        "Open Telementry": "UNSUPPORTED",
+        "Log": "UNSUPPORTED"
+    },
+    {
+        "Resource Type": "Network Interface",
+        "Full Stack": "UNSUPPORTED",
+        "Cloud Apps": "SUPPORTED",
+        "App Security": "UNSUPPORTED",
+        "Open Telementry": "UNSUPPORTED",
+        "Log": "UNSUPPORTED"
+    },
+    {
+        "Resource Type": "Power BI Embedded",
+        "Full Stack": "UNSUPPORTED",
+        "Cloud Apps": "SUPPORTED",
+        "App Security": "UNSUPPORTED",
+        "Open Telementry": "UNSUPPORTED",
+        "Log": "UNSUPPORTED"
+    },
+    {
+        "Resource Type": "Private DNS zone",
+        "Full Stack": "UNSUPPORTED",
+        "Cloud Apps": "SUPPORTED",
+        "App Security": "UNSUPPORTED",
+        "Open Telementry": "UNSUPPORTED",
+        "Log": "UNSUPPORTED"
+    },
+    {
+        "Resource Type": "Public IP address",
+        "Full Stack": "UNSUPPORTED",
+        "Cloud Apps": "SUPPORTED",
+        "App Security": "UNSUPPORTED",
+        "Open Telementry": "UNSUPPORTED",
+        "Log": "UNSUPPORTED"
+    },
+    {
+        "Resource Type": "Recovery Services vault",
+        "Full Stack": "UNSUPPORTED",
+        "Cloud Apps": "SUPPORTED",
+        "App Security": "UNSUPPORTED",
+        "Open Telementry": "UNSUPPORTED",
+        "Log": "UNSUPPORTED"
+    },
+    {
+        "Resource Type": "Service Bus Namespace",
+        "Full Stack": "UNSUPPORTED",
+        "Cloud Apps": "SUPPORTED",
+        "App Security": "UNSUPPORTED",
+        "Open Telementry": "UNSUPPORTED",
+        "Log": "UNSUPPORTED"
+    },
+    {
+        "Resource Type": "Storage account",
+        "Full Stack": "UNSUPPORTED",
+        "Cloud Apps": "SUPPORTED",
+        "App Security": "UNSUPPORTED",
+        "Open Telementry": "UNSUPPORTED",
+        "Log": "UNSUPPORTED"
+    },
+    {
+        "Resource Type": "Virtual machine scale set",
+        "Full Stack": "UNSUPPORTED",
+        "Cloud Apps": "SUPPORTED",
+        "App Security": "UNSUPPORTED",
+        "Open Telementry": "UNSUPPORTED",
+        "Log": "UNSUPPORTED"
+    },
+    {
+        "Resource Type": "Action group",
+        "Full Stack": "???",
+        "Cloud Apps": "???",
+        "App Security": "???",
+        "Open Telementry": "???",
+        "Log": "???"
+    },
+    {
+        "Resource Type": "API Connection",
+        "Full Stack": "???",
+        "Cloud Apps": "???",
+        "App Security": "???",
+        "Open Telementry": "???",
+        "Log": "???"
+    },
+    {
+        "Resource Type": "App Service (Slot)",
+        "Full Stack": "???",
+        "Cloud Apps": "???",
+        "App Security": "???",
+        "Open Telementry": "???",
+        "Log": "???"
+    },
+    {
+        "Resource Type": "Azure Workbook",
+        "Full Stack": "???",
+        "Cloud Apps": "???",
+        "App Security": "???",
+        "Open Telementry": "???",
+        "Log": "???"
+    },
+    {
+        "Resource Type": "Disk",
+        "Full Stack": "???",
+        "Cloud Apps": "???",
+        "App Security": "???",
+        "Open Telementry": "???",
+        "Log": "???"
+    },
+    {
+        "Resource Type": "Event Grid System Topic",
+        "Full Stack": "???",
+        "Cloud Apps": "???",
+        "App Security": "???",
+        "Open Telementry": "???",
+        "Log": "???"
+    },
+    {
+        "Resource Type": "Flow log",
+        "Full Stack": "???",
+        "Cloud Apps": "???",
+        "App Security": "???",
+        "Open Telementry": "???",
+        "Log": "???"
+    },
+    {
+        "Resource Type": "Log Analytics query pack",
+        "Full Stack": "???",
+        "Cloud Apps": "???",
+        "App Security": "???",
+        "Open Telementry": "???",
+        "Log": "???"
+    },
+    {
+        "Resource Type": "Log Analytics workspace",
+        "Full Stack": "???",
+        "Cloud Apps": "???",
+        "App Security": "???",
+        "Open Telementry": "???",
+        "Log": "???"
+    },
+    {
+        "Resource Type": "Managed Identity",
+        "Full Stack": "???",
+        "Cloud Apps": "???",
+        "App Security": "???",
+        "Open Telementry": "???",
+        "Log": "???"
+    },
+    {
+        "Resource Type": "Network security group",
+        "Full Stack": "???",
+        "Cloud Apps": "???",
+        "App Security": "???",
+        "Open Telementry": "???",
+        "Log": "???"
+    },
+    {
+        "Resource Type": "Network Watcher",
+        "Full Stack": "UNSUPPORTED",
+        "Cloud Apps": "SUPPORTED",
+        "App Security": "UNSUPPORTED",
+        "Open Telementry": "SKIPPED",
+        "Log": "UNSUPPORTED"
+    },
+    {
+        "Resource Type": "Private endpoint",
+        "Full Stack": "???",
+        "Cloud Apps": "???",
+        "App Security": "???",
+        "Open Telementry": "???",
+        "Log": "???"
+    },
+    {
+        "Resource Type": "Restore Point Collection",
+        "Full Stack": "???",
+        "Cloud Apps": "???",
+        "App Security": "???",
+        "Open Telementry": "???",
+        "Log": "???"
+    },
+    {
+        "Resource Type": "Route table",
+        "Full Stack": "???",
+        "Cloud Apps": "???",
+        "App Security": "???",
+        "Open Telementry": "???",
+        "Log": "???"
+    },
+    {
+        "Resource Type": "Smart detector alert rule",
+        "Full Stack": "???",
+        "Cloud Apps": "???",
+        "App Security": "???",
+        "Open Telementry": "???",
+        "Log": "???"
+    },
+    {
+        "Resource Type": "Solution",
+        "Full Stack": "???",
+        "Cloud Apps": "???",
+        "App Security": "???",
+        "Open Telementry": "???",
+        "Log": "???"
+    },
+    {
+        "Resource Type": "Static Web App",
+        "Full Stack": "???",
+        "Cloud Apps": "???",
+        "App Security": "???",
+        "Open Telementry": "???",
+        "Log": "???"
+    },
+    {
+        "Resource Type": "Virtual network",
+        "Full Stack": "???",
+        "Cloud Apps": "???",
+        "App Security": "???",
+        "Open Telementry": "???",
+        "Log": "???"
+    }
+]
